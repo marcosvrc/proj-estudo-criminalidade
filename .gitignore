@@ -1,10 +1,7 @@
-/target/test-classes/
-/target/maven-status/
-/target/maven-archiver/
-/target/generated-sources/
-/target/classes/
-
+target/
 !.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
 
 ### STS ###
 .apt_generated
